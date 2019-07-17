@@ -1,4 +1,8 @@
 .mainpanel p{
+<<<<<<< HEAD
     font-size: 40px;
     color: blue;
+=======
+    font-size: 16px;
+>>>>>>> fa6b64a0291b420f9752e731c9ebff5c94552c35
 }
